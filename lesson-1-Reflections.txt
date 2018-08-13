@@ -47,6 +47,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
 		* collaboration tool.
 		* configuration management resource.
 
+Here's another line to close out this file.
 
 				
 		
