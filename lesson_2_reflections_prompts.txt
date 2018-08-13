@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	- metadata about the repo is created and stored.
+	- it's necessary because git needs to begin tracking the contents of the files and their states.
+	
