@@ -31,3 +31,11 @@ What is the result of merging two branches together? Why do we represent it in t
 	- Merging two branches creates a code base from the two (or more) branches into a single master with all 
 	changes combined; the diagram shows this.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	* Pros:
+		- Large amounts fo changes are handled automatically
+		- Still reverts to manual mode for conflicts after identifying them
+	* Cons:
+		- Manual mode is tedious, esp. for large amounts of code/changes
+		- Conflicts may not always be idnetified resultingin borked code.
