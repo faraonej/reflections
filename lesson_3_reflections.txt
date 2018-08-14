@@ -7,3 +7,16 @@ When would you want to use a remote repository rather than keeping all your work
  
 	-  Because any changes made locally would automatically be clobbered. Law of Unintended Consequences!
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	* Fork -- used on GitHub to clone a repository for your own use, mostly for stuff you want to modify 
+			  but have no rights to original repo.
+			  
+	* Clone -- used to copy a repo to your machine from GitHub or between repos on your machine.
+	
+	* Branch -- Used to modify/create a new code stream off a master within a repo, (either on GitHub 
+				or on local git) maintaining the master while changes or features are added to the copy 
+				of the master code base. Changes made to the branch do not affect the master until the 
+				changes within the branch are merged with the master.
+
+				
