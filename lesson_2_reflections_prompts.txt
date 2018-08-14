@@ -3,3 +3,16 @@ What happens when you initialize a repository? Why do you need to do it?
 	- metadata about the repo is created and stored.
 	- it's necessary because git needs to begin tracking the contents of the files and their states.
 	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	- Staging is between the working directory and the repository; It holds files that are a step from being committed, 
+	but can't be modified (other than being removed via 'git reset'.
+	- Its value is that it can be a holding area for code containing mods or features for testing that can be backed out 
+	in the working directory copy if testing fails.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	- the staging area allows you to comapre a working copy in the WD to the copy added to the staging area. 
+	Using git diff shows what's been changed in the staged copy -- using git add, git diff prior to commit 
+	allows comparison to ensure only one change per commit.
+	
