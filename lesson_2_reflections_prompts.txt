@@ -26,4 +26,8 @@ How do the diagrams help you visualize the branch structure?
 	- The diagrams identify parents of commits, Master, Branches, and unreachable branches.
 	- Identifying unreachable branches can be joined to the master by doing a checkout of their commit
 		
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	- Merging two branches creates a code base from the two (or more) branches into a single master with all 
+	changes combined; the diagram shows this.
 	
