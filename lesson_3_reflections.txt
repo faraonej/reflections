@@ -23,3 +23,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 					- A local copy of origin\master allows you to work from a sync'd repository if you don't
 					  have Internet access.
+					  
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	- We could use sharepoint or other shared directory with diff, but merges branches and forks would be 
+	  a nightmare
