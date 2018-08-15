@@ -19,4 +19,7 @@ Describe the differences between forks, clones, and branches. When would you use
 				of the master code base. Changes made to the branch do not affect the master until the 
 				changes within the branch are merged with the master.
 
-				
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+					- A local copy of origin\master allows you to work from a sync'd repository if you don't
+					  have Internet access.
