@@ -28,3 +28,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	- We could use sharepoint or other shared directory with diff, but merges branches and forks would be 
 	  a nightmare
+
+	  
+When would you want to make changes in a separate branch rather than directly in master? 
+	- When adding/testing a new feature
+
+What benefits does each approach have?
+	- It preserves a working master and allows collaboration
+
+
+	
