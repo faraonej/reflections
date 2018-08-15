@@ -36,5 +36,7 @@ When would you want to make changes in a separate branch rather than directly in
 What benefits does each approach have?
 	- It preserves a working master and allows collaboration
 
+OVERALL:
 
+Not a bad course -- the concept diagrams were a little difficult to follow.  Great stuff!
 	
